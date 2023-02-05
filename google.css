@@ -1,0 +1,31 @@
+
+.container {
+    width: 1250px;
+    height: 255px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+}
+.center-text
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search {
+    width: 1250px;
+    height: 27%;
+    background-color: #EEEEEE;
+    /* text-align: center; */
+}
+.link {
+    width: 405px;
+    height: 30%;
+    background-color:#7EE5DA;
+    float: left;
+    margin-top: 3px;
+    margin-left: 1px;
+    padding: 4px;
+}
